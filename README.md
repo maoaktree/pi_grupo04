@@ -33,7 +33,7 @@ Contêm as seguintes jornadas:
 
 
 <details>
-	<summary> `Preview Mobile` </summary>
+	<summary> <b><u>Preview Mobile</u></b></summary>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_mobile/tela1.jpg?raw=true" alt="preview" width="50%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_mobile/tela2.jpg?raw=true" alt="preview" width="50%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_mobile/tela3.jpg?raw=true" alt="preview" width="50%"/>
@@ -50,7 +50,7 @@ Contêm as seguintes jornadas:
 </details> 
 
 <details>
-	<summary> `Preview Desktop` </summary>
+	<summary> <b><u>Preview Desktop</u></b> </summary>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_desktop/tela1.png?raw=true" alt="preview" width="100%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_desktop/tela2.png?raw=true" alt="preview" width="100%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_desktop/tela3.png?raw=true" alt="preview" width="100%"/>
