@@ -33,7 +33,7 @@ Contêm as seguintes jornadas:
 
 
 <details>
-	<summary>Preview **Mobile**</summary>
+	<summary> `Preview Mobile` </summary>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_mobile/tela1.jpg?raw=true" alt="preview" width="50%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_mobile/tela2.jpg?raw=true" alt="preview" width="50%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_mobile/tela3.jpg?raw=true" alt="preview" width="50%"/>
@@ -50,7 +50,7 @@ Contêm as seguintes jornadas:
 </details> 
 
 <details>
-	<summary>Preview **Desktop**</summary>
+	<summary> `Preview Desktop` </summary>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_desktop/tela1.png?raw=true" alt="preview" width="100%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_desktop/tela2.png?raw=true" alt="preview" width="100%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_desktop/tela3.png?raw=true" alt="preview" width="100%"/>
@@ -64,8 +64,8 @@ Contêm as seguintes jornadas:
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_desktop/tela11.png?raw=true" alt="preview" width="100%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_desktop/tela12.png?raw=true" alt="preview" width="100%"/>
 	<img src="https://github.com/maoaktree/pi_grupo04/blob/main/docs/preview_desktop/tela13.png?raw=true" alt="preview" width="100%"/>
+
 </details> 
-<br>
 
 
 #### Para acessar documentos da primeira entrega: 
