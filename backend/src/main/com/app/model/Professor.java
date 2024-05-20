@@ -19,4 +19,44 @@ public class Professor extends PessoaFisica {
     private String codigoCurso;
 
     private double salario;
+
+    public String getFormacaoAcademica() {
+        return formacaoAcademica;
+    }
+
+    public void setFormacaoAcademica(String formacaoAcademica) {
+        this.formacaoAcademica = formacaoAcademica;
+    }
+
+    public String getCargo() {
+        return cargo;
+    }
+
+    public void setCargo(String cargo) {
+        this.cargo = cargo;
+    }
+
+    public String getDepartamento() {
+        return departamento;
+    }
+
+    public void setDepartamento(String departamento) {
+        this.departamento = departamento;
+    }
+
+    public String getCodigoCurso() {
+        return codigoCurso;
+    }
+
+    public void setCodigoCurso(String codigoCurso) {
+        this.codigoCurso = codigoCurso;
+    }
+
+    public Double getSalario() {
+        return salario;
+    }
+
+    public void setSalario(Double salario) {
+        this.salario = salario;
+    }
 }

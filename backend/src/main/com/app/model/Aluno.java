@@ -20,4 +20,44 @@ public class Aluno extends PessoaFisica {
 
     @NotBlank(message = "A situação é obrigatória")
     private String situacao;
+
+    public String getCodMatricula() {
+        return codMatricula;
+    }
+
+    public void setCodMatricula(String codMatricula) {
+        this.codMatricula = codMatricula;
+    }
+
+    public String getCurso() {
+        return curso;
+    }
+
+    public void setCurso(String curso) {
+        this.curso = curso;
+    }
+
+    public String getSemestreAno() {
+        return semestreAno;
+    }
+
+    public void setSemestreAno(String semestreAno) {
+        this.semestreAno = semestreAno;
+    }
+
+    public String getPeriodo() {
+        return periodo;
+    }
+
+    public void setPeriodo(String periodo) {
+        this.periodo = periodo;
+    }
+
+    public String getSituacao() {
+        return situacao;
+    }
+
+    public void setSituacao(String situacao) {
+        this.situacao = situacao;
+    }
 }

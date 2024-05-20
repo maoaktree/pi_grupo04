@@ -19,4 +19,44 @@ public class Funcionario extends PessoaFisica {
     private String codigoFuncao;
 
     private double salario;
+
+    public String getGrauEscolaridade() {
+        return grauEscolaridade;
+    }
+
+    public void setGrauEscolaridade(String grauEscolaridade) {
+        this.grauEscolaridade = grauEscolaridade;
+    }
+
+    public String getCargo() {
+        return cargo;
+    }
+
+    public void setCargo(String cargo) {
+        this.cargo = cargo;
+    }
+
+    public String getDepartamento() {
+        return departamento;
+    }
+
+    public void setDepartamento(String departamento) {
+        this.departamento = departamento;
+    }
+
+    public String getCodigoFuncao() {
+        return codigoFuncao;
+    }
+
+    public void setCodigoFuncao(String codigoFuncao) {
+        this.codigoFuncao = codigoFuncao;
+    }
+
+    public Double getSalario() {
+        return salario;
+    }
+
+    public void setSalario(Double salario) {
+        this.salario = salario;
+    }
 }
